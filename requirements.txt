@@ -1,0 +1,47 @@
+archspec @ file:///home/conda/feedstock_root/build_artifacts/archspec_1708969572489/work
+boltons @ file:///work/perseverance-python-buildout/croot/boltons_1698851177130/work
+Brotli @ file:///work/perseverance-python-buildout/croot/brotli-split_1698805593785/work
+Cartopy @ file:///home/conda/feedstock_root/build_artifacts/cartopy_1698172746528/work
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1707022139797/work/certifi
+cffi @ file:///croot/cffi_1700254295673/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+conda @ file:///home/conda/feedstock_root/build_artifacts/conda_1711445855121/work
+conda-content-trust @ file:///work/perseverance-python-buildout/croot/conda-content-trust_1698882886606/work
+conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1702997573971/work/src
+conda-package-handling @ file:///work/perseverance-python-buildout/croot/conda-package-handling_1698851267218/work
+conda_package_streaming @ file:///work/perseverance-python-buildout/croot/conda-package-streaming_1698847176583/work
+contourpy @ file:///home/conda/feedstock_root/build_artifacts/contourpy_1712429918028/work
+cryptography @ file:///croot/cryptography_1702070282333/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1696677705766/work
+distro @ file:///work/perseverance-python-buildout/croot/distro_1701732366176/work
+fonttools @ file:///home/conda/feedstock_root/build_artifacts/fonttools_1712344557282/work
+idna @ file:///work/perseverance-python-buildout/croot/idna_1698845632828/work
+jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
+jsonpointer==2.1
+kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/kiwisolver_1695379925569/work
+libmambapy @ file:///work/perseverance-python-buildout/croot/mamba-split_1701744133524/work/libmambapy
+matplotlib @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-suite_1712605872637/work
+menuinst @ file:///croot/menuinst_1706732933928/work
+munkres==1.1.4
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1707225359967/work/dist/numpy-1.26.4-cp312-cp312-linux_x86_64.whl#sha256=031b7d6b2e5e604d9e21fc21be713ebf28ce133ec872dce6de006742d5e49bab
+packaging @ file:///work/perseverance-python-buildout/croot/packaging_1698805390494/work
+pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1712154464349/work
+platformdirs @ file:///work/perseverance-python-buildout/croot/platformdirs_1701732573265/work
+pluggy @ file:///work/perseverance-python-buildout/croot/pluggy_1698805497733/work
+pycosat @ file:///work/perseverance-python-buildout/croot/pycosat_1698863456259/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1709721012883/work
+pyproj @ file:///home/conda/feedstock_root/build_artifacts/pyproj_1702028051731/work
+pyshp @ file:///home/conda/feedstock_root/build_artifacts/pyshp_1659002966020/work
+PySocks @ file:///work/perseverance-python-buildout/croot/pysocks_1698845478203/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
+requests @ file:///croot/requests_1707355572290/work
+ruamel.yaml @ file:///work/perseverance-python-buildout/croot/ruamel.yaml_1698863605521/work
+setuptools==68.2.2
+shapely @ file:///home/conda/feedstock_root/build_artifacts/shapely_1708367925731/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+tqdm @ file:///work/perseverance-python-buildout/croot/tqdm_1701735729845/work
+truststore @ file:///work/perseverance-python-buildout/croot/truststore_1701735771625/work
+urllib3 @ file:///croot/urllib3_1707770551213/work
+wheel==0.41.2
+zstandard @ file:///work/perseverance-python-buildout/croot/zstandard_1698847073368/work
